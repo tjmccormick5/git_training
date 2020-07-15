@@ -1,5 +1,9 @@
 # Learn `git` concepts, not commands
 
+THIS IS AN EDIT TIM MCCORMICK IS MAKING ON 6/15/2020. 
+
+
+
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
 So, you want to use git, right? 
